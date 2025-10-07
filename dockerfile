@@ -7,4 +7,4 @@ COPY . .
 #Complie the java program
 RUN javac samplename.java
 #Command to run the program
-CMD["java","samplename"]
+CMD ["java","samplename"]
